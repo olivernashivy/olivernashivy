@@ -1,56 +1,83 @@
-# Hi, I'm Nash 👋
+# Nash Oliver
 
-Senior full-stack engineer with strong experience designing, building, and maintaining production-grade systems.
+Senior Full-Stack Software Engineer with 8+ years of professional experience designing, building, and maintaining production-grade software systems.
 
-I specialize in backend architecture, APIs, and scalable platforms, with hands-on experience across web, mobile, and cloud environments. I’m comfortable owning features end-to-end—from system design and implementation to deployment and long-term maintenance.
+I specialize in backend architecture, scalable APIs, and end-to-end system development. I have worked across web, mobile, and cloud environments, contributing to products from early design through production deployment and long-term maintenance. I bring a strong balance of technical depth, system thinking, and practical product delivery.
 
 ---
 
-## 🔧 Core Skills & Technologies
+## Professional Summary
 
-**Backend**
+- 8+ years of experience in software engineering
+- Strong background in backend, platform, and full-stack development
+- Proven experience building scalable, secure, and maintainable systems
+- Comfortable owning features end-to-end and collaborating across teams
+- Focused on clean architecture, performance, and long-term scalability
+
+---
+
+## Technical Skills
+
+### Backend & Server-Side Development
 - Node.js, NestJS
 - Python, FastAPI, Django
-- REST & GraphQL APIs
-- PostgreSQL, MySQL, Redis
-- Authentication, authorization, multi-tenant systems
+- PHP, Laravel
+- C#, .NET
+- REST and GraphQL API design
+- Authentication, authorization, role-based access control
+- Multi-tenant and modular system design
 
-**Frontend & Mobile**
-- React, React Native, Expo
-- Android (Kotlin / Java)
-- Responsive UI, dashboards, admin panels
+### Databases & Data Layer
+- PostgreSQL, MySQL
+- Redis
+- Database modeling and optimization
+- Migrations, indexing, and performance tuning
 
-**DevOps & Infrastructure**
-- Docker, Docker Compose
+### Frontend & Mobile
+- React
+- React Native, Expo
+- Android development (Kotlin, Java)
+- Responsive web applications
+- Admin panels and internal dashboards
+
+### Cloud & Infrastructure
+- Cloud architecture fundamentals (AWS / GCP / Azure concepts)
+- Cloud resource management and deployment strategies
+- Docker and Docker Compose
 - CI/CD pipelines
-- Cloud-ready deployments
-- Performance optimization & monitoring
+- Environment configuration and secrets management
+- Monitoring, logging, and performance optimization
 
-**Engineering Practices**
-- System design & architecture
-- Clean architecture & maintainable code
-- Testing strategies
-- API documentation & versioning
-
----
-
-## 🧠 What I Work On
-- Scalable APIs and backend services  
-- Full-stack web applications  
-- Mobile applications (Android & cross-platform)  
-- Monetized platforms (ads, subscriptions, usage-based models)  
-- Developer tools and internal dashboards  
+### Engineering Practices
+- System design and software architecture
+- Clean code and maintainable codebases
+- Testing strategies (unit, integration)
+- API documentation and versioning
+- Code reviews and technical mentorship
+- Security best practices
 
 ---
 
-## 📌 Current Focus
-- Building reliable backend systems  
-- Improving performance and scalability  
-- Shipping production-ready products  
-- Exploring AI-powered features and automation  
+## Areas of Work
+
+- Scalable backend services and APIs
+- Full-stack web platforms
+- Mobile applications (native Android and cross-platform)
+- Monetized systems (subscriptions, ads, usage-based models)
+- Internal tools and developer platforms
+- Legacy system improvement and modernization
 
 ---
 
-## 📫 Connect
-- Open to collaboration and interesting engineering challenges  
-- Focused on building practical, high-impact software
+## Current Focus
+
+- Designing robust backend and platform architectures
+- Improving system scalability and reliability
+- Building production-ready, cloud-deployed systems
+- Exploring automation and AI-assisted workflows
+
+---
+
+## Collaboration
+
+Open to collaboration on well-structured engineering projects, backend-heavy systems, and high-impact software products. Focused on building reliable solutions that scale and are easy to maintain.
